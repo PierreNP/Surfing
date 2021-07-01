@@ -1,0 +1,11 @@
+.jumbotron-hero {
+    height: 500px;
+    background-image: url(hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+h1
+{text-align: center;}
+
